@@ -14,27 +14,27 @@ namespace op
     #define HAND_SCALES_RENDER_GPU 1
     const std::vector<unsigned int> HAND_PAIRS_RENDER {HAND_PAIRS_RENDER_GPU};
     #define HAND_COLORS_RENDER_GPU \
-        100.f,  100.f,  100.f, \
-        100.f,    0.f,    0.f, \
-        150.f,    0.f,    0.f, \
-        200.f,    0.f,    0.f, \
-        255.f,    0.f,    0.f, \
-        100.f,  100.f,    0.f, \
-        150.f,  150.f,    0.f, \
-        200.f,  200.f,    0.f, \
-        255.f,  255.f,    0.f, \
-          0.f,  100.f,   50.f, \
-          0.f,  150.f,   75.f, \
-          0.f,  200.f,  100.f, \
-          0.f,  255.f,  125.f, \
-          0.f,   50.f,  100.f, \
-          0.f,   75.f,  150.f, \
-          0.f,  100.f,  200.f, \
-          0.f,  125.f,  255.f, \
-        100.f,    0.f,  100.f, \
-        150.f,    0.f,  150.f, \
-        200.f,    0.f,  200.f, \
-        255.f,    0.f,  255.f
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f, \
+        255.f,   255.f,   255.f
     const std::vector<float> HAND_COLORS_RENDER{HAND_COLORS_RENDER_GPU};
     const std::vector<float> HAND_SCALES_RENDER{HAND_SCALES_RENDER_GPU};
 
