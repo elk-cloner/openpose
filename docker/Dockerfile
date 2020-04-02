@@ -1,4 +1,4 @@
-# https://hub.docker.com/r/cwaffles/openpose
+# https://hub.docker.com/r/cwaffles/openpose with some changes
 FROM nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04
 
 #get deps
